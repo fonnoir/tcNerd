@@ -7,11 +7,12 @@ Evolv DNA 75 c themes and configs
 
 * Cold and warm resistance
 * Checkbox for stealth mode
-Checkbox for preheat
-Last maximum Power in green
-Last puff time
-Maximum Power
-Chart
-Settings
+* Checkbox for preheat
+* Last maximum Power in green
+* Last puff time
+* Maximum Power
+* Chart
+* Settings
+* Battery 
 
 
